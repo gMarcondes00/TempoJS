@@ -14,3 +14,27 @@
     align-items: center;
     flex-direction: column;
 }
+
+.input-box {
+    padding: 15px;
+    background: linear-gradient(45deg,
+    #f4c430,
+    #d98695,
+    #7db8cb);
+    color: white;
+}
+
+.cidade, .btn {
+    margin-bottom: 10px;
+    border-radius: 5px;
+    padding: 2px;
+}
+
+.weather {
+    text-align: center;
+    padding: 1;
+    background-color: #007fff;
+    opacity: .5;
+}
+
+/*mostarda(f4c430) rosa queimado(d98695) azul celeste(7db8cb) */

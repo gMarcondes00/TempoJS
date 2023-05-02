@@ -13,6 +13,9 @@
     justify-content: center;
     align-items: center;
     flex-direction: column;
+
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 .input-box {
@@ -37,4 +40,17 @@
     opacity: .5;
 }
 
-/*mostarda(f4c430) rosa queimado(d98695) azul celeste(7db8cb) */
+/*Imagens*/
+
+.nubladoIMG {
+    background-image: url('/images/Nublado.jpg');
+}
+.clearIMG {
+    background-image: url('/images/Clear.jpg');
+}
+.chuvaIMG {
+    background-image: url('/images/Chuva.jpg');
+}
+.tempestadeIMG {
+    background-image: url('/images/Tempestade.jpg');
+}
